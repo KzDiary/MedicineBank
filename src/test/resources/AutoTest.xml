@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Suite" parallel="false">
+    <test name="TestCase List">
+        <classes>
+            <class name="TC_001_Valid"/>
+            <class name="TC_002_Invalid"/>
+        </classes>
+    </test>
+</suite>
